@@ -18,7 +18,7 @@ def assembled_aoh
      { name:  "Kate Gompert", occupation: "None" },
      { name:  "Bruce Green", occupation: "Fan of Mildred" } 
     ]
-    media_staff_2
+   return media_staff_2
 end
 
 def literal_aoh
