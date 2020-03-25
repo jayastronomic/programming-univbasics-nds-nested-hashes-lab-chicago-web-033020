@@ -11,7 +11,7 @@ def assembled_aoh
   # Array. Ruby constants are denoted by ALL_CAPS
   
   staff = [ DON_G, JOELLE_VD, PAT_M, KATE_G, BRUCE_G]
-  media_staff_2 = [
+  literal_aoh = [
      { name:  "Don Gately", occupation: "Live-in Staff" },
      { name:  "Joelle van Dyne", occupation: "Radio Personality" },
      { name:  "Pat Monteseian", occupation: "Staff" },
